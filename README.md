@@ -134,3 +134,10 @@ Recommended focus areas include:
 ✔ Interactive Slicers & Navigation
 
 ✔ KPI Reporting
+
+
+<img width="726" height="416" alt="image" src="https://github.com/user-attachments/assets/86f7a394-32c5-466e-930b-90f7d24d0bf9" />
+
+<img width="892" height="517" alt="image" src="https://github.com/user-attachments/assets/bff86e2d-6314-484d-ac34-be37a1c69727" />
+
+
