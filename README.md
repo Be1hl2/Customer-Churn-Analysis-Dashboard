@@ -6,11 +6,17 @@ Developed a multi-page Power BI Customer Churn Dashboard to analyze customer chu
 The objective of the project was to identify:
 
 ✔ Customer segments with the highest churn
+
 ✔ Service and contract factors influencing churn
+
 ✔ Revenue at risk due to customer attrition
+
 ✔ Customer Lifetime Value (CLTV) impact
+
 ✔ City-wise churn performance
+
 ✔ Key business reasons driving customer churn
+
 ✔ Executive retention opportunities
 
 The dashboard enables interactive and decision-oriented analysis through dynamic filters, KPI monitoring, and multi-page drill-down capabilities.
@@ -88,16 +94,26 @@ Improve service offerings and customer experience
 
 Recommended focus areas include:
 
-Encouraging long-term contracts
-Improving Fiber Optic service quality
-Bundling Online Security and Tech Support
-Strengthening customer support
-Designing targeted retention campaigns for high-risk customer groups
+✔ Encouraging long-term contracts
+
+✔ Improving Fiber Optic service quality
+
+✔ Bundling Online Security and Tech Support
+
+✔ Strengthening customer support
+
+✔ Designing targeted retention campaigns for high-risk customer groups
+
 🛠 Tools & Technologies Used
-Power BI
-DAX
-Power Query
-SQL
-Data Modeling
-Interactive Slicers & Navigation
-KPI Reporting
+✔ Power BI
+
+✔ DAX
+
+✔ Power Query
+
+✔ SQL
+
+✔ Data Modeling
+
+✔ Interactive Slicers & Navigation
+✔ KPI Reporting
